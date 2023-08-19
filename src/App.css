@@ -8,3 +8,16 @@
 body{
   background-color: #D8D9DA;
 }
+
+.screen {
+  background-color: #272829;
+  color: #FFF6E0;
+  padding: 1rem;
+  border-radius: 15px;
+  border-color: #FFF6E0;
+  border-width: 2px;
+  border-style: solid;
+}
+.drum-pad{
+  padding: 10rem 2rem;
+}
